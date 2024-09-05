@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.34729.27
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestorFinanceiro", "GestorFinanceiro\GestorFinanceiro.csproj", "{AE7122DE-A556-425B-B0EE-896E131296BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilitarios", "Utilitarios\Utilitarios.csproj", "{5945DBB9-FECB-424F-9068-D1BD4B9B4541}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AE7122DE-A556-425B-B0EE-896E131296BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE7122DE-A556-425B-B0EE-896E131296BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE7122DE-A556-425B-B0EE-896E131296BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE7122DE-A556-425B-B0EE-896E131296BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5945DBB9-FECB-424F-9068-D1BD4B9B4541}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5945DBB9-FECB-424F-9068-D1BD4B9B4541}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5945DBB9-FECB-424F-9068-D1BD4B9B4541}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5945DBB9-FECB-424F-9068-D1BD4B9B4541}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E4E6684-DDAE-4551-B347-01515A0F499A}
+	EndGlobalSection
+EndGlobal
